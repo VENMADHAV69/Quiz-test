@@ -1,1 +1,1 @@
-# Quiz-test
+print(2+3)
